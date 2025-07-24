@@ -1,0 +1,15 @@
+ .gallery-img {
+      height: 250px;
+      object-fit: cover;
+      border-radius: 10px;
+      transition: transform 0.3s ease;
+    }
+    .gallery-img:hover {
+      transform: scale(1.05);
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    }
+    .gallery-title {
+      margin: 20px 0;
+      font-weight: bold;
+      text-align: center;
+    }

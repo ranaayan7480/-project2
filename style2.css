@@ -1,0 +1,19 @@
+.box{
+    text-align: center;
+   
+}
+
+
+body{
+    
+   /* background-image: url(https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg?cs=srgb&dl=pexels-jplenio-1103970.jpg&fm=jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+}
+
+
+.p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 150px;
+}
