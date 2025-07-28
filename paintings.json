@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Abstract Expression - Black & White",
+    "image": "https://portray.pk/cdn/shop/products/10.jpg?v=1679587861",
+    "description": "Conceptual and expressive visuals that spark imagination and emotion. This black and white abstract painting is created to captivate the viewer with its bold contrast and fluid motion. Ideal for modern interiors, it adds a minimalist yet impactful vibe to your living or workspace.",
+    "price": "50.00$"
+  },
+  {
+    "id": 2,
+    "title": "Serene Landscape View",
+    "image": "https://m.media-amazon.com/images/I/81GkhQ1srWL._AC_SL1500_.jpg",
+    "description": "Beautiful portrayals of nature's beauty, calmness, and grandeur. The painting brings tranquil energy and scenic vibes into your home, perfect for living rooms, lounges, or bedrooms. Designed to soothe the soul and elevate the environment with nature’s peace.",
+    "price": "52.00$"
+  },
+  {
+    "id": 3,
+    "title": "Floral Grace - Abstract Blossom",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/1feefa4c389c497af56a6738be7a69e2.png_720x720q80.png",
+    "description": "Celebrate the grace and elegance of nature through floral art. This abstract floral canvas radiates freshness, joy, and elegance. Perfect for bedrooms or hallway decor, it brings a soft, feminine energy to any wall it adorns.",
+    "price": "42.20$"
+  },
+  {
+    "id": 4,
+    "title": "Old Village Mosque - Handmade Art",
+    "image": "https://framer.pk/cdn/shop/products/Room-view_fed6dd0f-3d08-46ef-8842-1f27600f75be_460x.jpg?v=1650525782",
+    "description": "Old Village Mosque handmade painting on canvas. This spiritual and culturally rich artwork depicts the timeless beauty of heritage architecture. It is perfect for prayer rooms, traditional home decor, or anyone who values cultural aesthetics.",
+    "price": "60.40$"
+  },
+  {
+    "id": 5,
+    "title": "Floral Explosion - Abstract Art 008",
+    "image": "https://framer.pk/cdn/shop/products/Room-view1_460x.jpg?v=1650282818",
+    "description": "Colorful Abstract Floral Art Painting 008. This artwork celebrates nature in its boldest form — expressive, colorful, and abstract. It fits well in contemporary homes and energizes dull spaces with vibrant character and floral dynamism.",
+    "price": "59.99$"
+  },
+  {
+    "id": 6,
+    "title": "Malangs Whirling - Spiritual Oil Painting",
+    "image": "https://framer.pk/cdn/shop/products/Room-view_563d8084-ceed-4410-8064-17d5c939d423_460x.jpg?v=1650283330",
+    "description": "Malangs Whirling Handmade oil painting. Inspired by the spiritual tradition of Sufi dervishes, this painting symbolizes harmony, devotion, and rhythm. It’s a captivating piece for art lovers drawn to cultural or spiritual themes.",
+    "price": "44.99$"
+  },
+  {
+    "id": 7,
+    "title": "Old City in Antique Frame",
+    "image": "https://framer.pk/cdn/shop/products/vinicius-amnx-amano-17NCG_wOkMY-unsplash_460x.jpg?v=1646220575",
+    "description": "Old City Painting with Italian Antique silverish Moulding and Gold Liner. This elegant piece adds a touch of sophistication to any space with its historical charm and luxurious frame. Great for formal lounges or office spaces.",
+    "price": "49.99$"
+  },
+  {
+    "id": 8,
+    "title": "Village Culture - Abstract Oil",
+    "image": "https://framer.pk/cdn/shop/products/MHM6071_621cb60f-bdfe-483e-9e16-dbd50be3b74a_220x.jpg?v=1645599347",
+    "description": "Abstract Old Village Cultural Oil Painting on Canvas. Dive into the cultural beauty of rural traditions with this rich and colorful artwork. Perfect for study rooms, entryways, or anyone who appreciates village life and heritage.",
+    "price": "59.90$"
+  },
+  {
+    "id": 9,
+    "title": "Colorful Abstract Vibes",
+    "image": "https://framer.pk/cdn/shop/products/B612_20210916_181852_539_460x.jpg?v=1643285319",
+    "description": "Colorful Abstract Art Painting. Bold, bright, and full of energy — this abstract piece is a fantastic choice for creative spaces, cafes, or any modern interior that craves a splash of color and motion.",
+    "price": "60.00$"
+  }
+]
